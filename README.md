@@ -9,6 +9,10 @@ spatial coordinates and registered tissue images. It combines three RNA graph
 views, spot-specific view weights and gated residual image fusion. A separate
 protein encoder supplies auxiliary supervision during paired training. 
 
+## Data
+All data referenced in the paper can be obtained via the following links:
+https://drive.google.com/drive/folders/15pewPCpNCLQnEZlj-G6lUbFYX5kzZhAa?usp=drive_link
+
 
 
 ## Installation
